@@ -1,0 +1,89 @@
+
+[
+{
+  "audio": "hoi-thoai-11-1.mp3",
+  "hinhanh": "hoi-thoai-11-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "칼로",
+      "korean": "푸캄 씨, 쓰레기가 많네요.",
+      "vietnamese": "Phukham, rác nhiều quá nhỉ."
+    },
+    {
+      "speaker": "푸캄",
+      "korean": "네. 어제 집에서 친구들하고 저녁을 먹었어요. 그래서 쓰레기가 많아요.",
+      "vietnamese": "Vâng. Hôm qua tôi ăn tối với bạn bè ở nhà nên rác nhiều."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "푸캄 씨, 쓰레기봉투가 없어요? 쓰레기는 쓰레기봉투에 넣어야 돼요.",
+      "vietnamese": "Phukham, không có túi rác sao? Rác phải bỏ vào túi rác."
+    },
+    {
+      "speaker": "푸캄",
+      "korean": "아, 네. 캔도 쓰레기봉투에 넣어요?",
+      "vietnamese": "À, vâng. Lon cũng bỏ vào túi rác à?"
+    },
+    {
+      "speaker": "칼로",
+      "korean": "그건 따로 버려야 돼요.",
+      "vietnamese": "Cái đó phải vứt riêng."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "푸캄 씨는 어제 무엇을 했어요?",
+      "vietnamese_question": "Hôm qua Phukham đã làm gì?",
+      "korean_answer": "집에서 친구들하고 저녁을 먹었어요.",
+      "vietnamese_answer": "Ăn tối với bạn bè ở nhà."
+    },
+    {
+      "korean_question": "캔은 어떻게 버려야 돼요?",
+      "vietnamese_question": "Lon phải vứt như thế nào?",
+      "korean_answer": "따로 버려야 돼요.",
+      "vietnamese_answer": "Phải vứt riêng."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-11-2.mp3",
+  "hinhanh": "hoi-thoai-11-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "마두",
+      "korean": "아궁 씨, 저 마두예요. 지금 기숙사에 있어요?",
+      "vietnamese": "Agung, tôi là Madhu đây. Bây giờ bạn đang ở ký túc xá à?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "네, 기숙사예요. 그런데 갑자기 왜 전화했어요?",
+      "vietnamese": "Vâng, tôi đang ở ký túc xá. Nhưng sao lại gọi đột ngột vậy?"
+    },
+    {
+      "speaker": "마두",
+      "korean": "아궁 씨, 제가 지금 시내에 있어요. 그런데 비가 와요. 빨래 좀 걷어 주세요.",
+      "vietnamese": "Agung, tôi đang ở trong thành phố, mà trời đang mưa. Làm ơn thu đồ giặt giúp tôi."
+    },
+    {
+      "speaker": "아궁",
+      "korean": "그래요? 제가 빨리 빨래를 걷을게요. 천천히 오세요.",
+      "vietnamese": "Vậy à? Tôi sẽ nhanh chóng thu đồ giặt. Bạn cứ về từ từ."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아궁 씨는 지금 어디에 있어요?",
+      "vietnamese_question": "Bây giờ Agung đang ở đâu?",
+      "korean_answer": "기숙사에 있어요.",
+      "vietnamese_answer": "Đang ở ký túc xá."
+    },
+    {
+      "korean_question": "마두 씨는 아궁 씨에게 무엇을 부탁했어요?",
+      "vietnamese_question": "Madhu đã nhờ Agung làm gì?",
+      "korean_answer": "빨래를 걷어 달라고 부탁했어요.",
+      "vietnamese_answer": "Nhờ thu đồ giặt."
+    }
+  ]
+ }
+ ]
+
