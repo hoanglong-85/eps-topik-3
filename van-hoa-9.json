@@ -1,0 +1,50 @@
+{
+  "title": {
+    "korean": "쓰레기 분리배출",
+    "vietnamese": "Phân loại rác thải"
+  },
+  "data": [
+    {
+      "korean": "한국에서는 쓰레기를 버릴 때 쓰레기의 종류에 따라 분리해서 버려야 합니다. 쓰레기의 종류에는 일반쓰레기, 음식물 쓰레기, 재활용품, 헌 옷, 그리고 대형 쓰레기가 있습니다.",
+      "vietnamese": "Ở Hàn Quốc, khi vứt rác phải phân loại theo từng loại. Các loại rác bao gồm rác thải thông thường, rác thực phẩm, hàng tái chế, quần áo cũ và rác thải lớn."
+    },
+    {
+      "korean": "일반쓰레기는 종량제 봉투에 넣어서 버립니다. 버리는 날짜와 장소는 정해져 있는데 지역마다 다릅니다. 종량제 봉투는 마트나 편의점, 슈퍼마켓에서 살 수 있는데 5ℓ, 10ℓ, 20ℓ, 30ℓ, 50ℓ, 75ℓ짜리가 있습니다.",
+      "vietnamese": "Rác thải thông thường được bỏ vào túi định lượng rồi vứt đi. Thời gian và địa điểm bỏ rác được định sẵn nhưng mỗi khu vực lại khác nhau. Túi định lượng có thể mua ở siêu thị, cửa hàng tiện lợi với các dung tích 5 lít, 10 lít, 20 lít, 30 lít, 50 lít, 75 lít."
+    },
+    {
+      "korean": "음식물 쓰레기는 최대한 물기를 제거한 후 버려야 합니다. 닭 뼈나 달걀 껍데기와 같이 동물이 먹을 수 없는 것은 일반쓰레기로 분리해서 버려야 합니다. 음식물 쓰레기는 음식물 쓰레기 수거통에 버리거나, 수거통이 없을 경우 음식물 쓰레기봉투에 담아서 버리면 됩니다.",
+      "vietnamese": "Rác thực phẩm nên được loại bỏ nước rồi mới vứt đi. Những thứ mà động vật không thể ăn như xương gà hay vỏ trứng phải được phân loại thành rác thông thường. Rác thực phẩm có thể được bỏ vào thùng rác thực phẩm hoặc túi rác thực phẩm nếu không có thùng."
+    },
+    {
+      "korean": "재활용품의 종류로는 플라스틱, 비닐, 종이, 캔, 빈 병이 있습니다. 재활용품은 종류별로 분리해서 버리면 됩니다.",
+      "vietnamese": "Các sản phẩm tái chế bao gồm nhựa, ni lông, giấy, lon và chai rỗng. Chúng cần được phân loại theo từng loại rồi mới vứt bỏ."
+    },
+    {
+      "korean": "헌 옷이나 신발, 가방, 담요와 같은 것은 의류 수거함에 버려야 하는데, 의류 수거함은 보통 행정복지센터 앞이나 주택가의 골목, 아파트의 쓰레기 수거장 안에 있습니다.",
+      "vietnamese": "Những thứ như quần áo cũ, giày dép, túi xách, chăn mền phải vứt vào thùng thu gom quần áo, thường nằm trước trung tâm phúc lợi hành chính, trong ngõ khu dân cư hoặc trong khu gom rác của chung cư."
+    },
+    {
+      "korean": "대형 쓰레기는 책상이나 침대, 냉장고, 텔레비전과 같이 큰 쓰레기를 말합니다. 대형 쓰레기를 버릴 때는 폐기물 스티커를 붙인 후 집 앞에 버려야 합니다. 스티커 비용은 쓰레기의 크기와 무게에 따라 다르며, 행정복지센터에서 구매할 수 있습니다.",
+      "vietnamese": "Rác thải lớn như bàn học, giường, tủ lạnh, tivi... Khi vứt rác thải lớn, bạn phải dán sticker rồi đặt trước nhà. Chi phí sticker phụ thuộc vào kích thước và trọng lượng của rác, có thể mua tại trung tâm phúc lợi hành chính khu vực."
+    }
+  ],
+  "voca": {
+    "휴게실": "Phòng nghỉ",
+    "분리하다": "Phân chia, tách rời",
+    "대형 쓰레기": "Rác thải kích cỡ lớn",
+    "담요": "Chăn mền",
+    "의류": "Trang phục, quần áo",
+    "행정복지센터": "Trung tâm phúc lợi hành chính",
+    "주택가": "Khu nhà ở",
+    "골목": "Ngõ, hẻm",
+    "종량제 봉투": "Túi đựng rác thải theo quy định",
+    "폐기물 스티커": "Sticker dán rác thải lớn",
+    "무게": "Trọng lượng",
+    "닭 뼈": "Xương gà",
+    "달걀 껍데기": "Vỏ trứng gà",
+    "동물": "Động vật",
+    "비닐": "Ni lông",
+    "빈 병": "Chai rỗng"
+  }
+}
