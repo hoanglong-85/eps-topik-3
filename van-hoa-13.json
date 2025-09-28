@@ -1,9 +1,9 @@
-[{
+{
   "title": {
     "korean": "한국인의 종교",
     "vietnamese": "Tôn giáo của người Hàn Quốc"
   },
-  "content": [
+  "data": [
     {
       "korean": "한국은 개인의 종교가 존중 받는 다종교 국가입니다. 한국리서치의 '여론 속의 여론'(2023)에 따르면, 개신교를 믿는 사람(20%)이 가장 많고, 다음으로 불교(17%), 천주교(11%)의 순입니다. 이슬람교 등 기타 종교를 믿는 사람은 아주 적습니다. 신자 중에는 남성보다 여성이 많고, 나이가 적은 사람보다는 나이가 많은 사람의 비율이 더 높습니다. 그런데 종교를 가진 사람보다는 종교가 없는 사람이 더 많습니다.",
       "vietnamese": "Hàn Quốc là một quốc gia đa tôn giáo mà tôn giáo cá nhân được tôn trọng. Theo nghiên cứu \"Dư luận trong dư luận\" (2023), số người theo đạo Tin Lành (20%) là nhiều nhất, tiếp theo là Phật giáo (17%) và Công giáo (11%). Rất ít người theo đạo Hồi và các tôn giáo khác. Trong số các tín đồ, tỷ lệ phụ nữ nhiều hơn nam giới và người lớn tuổi nhiều hơn người trẻ tuổi. Nhưng người không theo tôn giáo nhiều hơn người theo tôn giáo."
@@ -17,7 +17,7 @@
       "vietnamese": "Ở Hàn Quốc, ngày sinh của Chúa Giêsu (25 tháng 12 dương lịch) và ngày sinh của Đức Phật (8 tháng 4 âm lịch) đều được quy định là ngày nghỉ lễ. Vào những ngày này, nhiều người tập trung tại nhà thờ hoặc chùa."
     }
   ],
-  "vocabulary": [
+  "voca": [
     { "korean": "고장이 나다", "vietnamese": "Bị hư, hỏng" },
     { "korean": "남성", "vietnamese": "Nam giới" },
     { "korean": "다종교", "vietnamese": "Đa tôn giáo" },
@@ -40,4 +40,3 @@
     { "korean": "치료", "vietnamese": "Sự chữa trị, điều trị" }
   ]
 }
-]
