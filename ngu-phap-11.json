@@ -1,0 +1,24 @@
+[{
+  "nguphap": "-아야/어야 되다",
+  "loai": "동사/형용사 + -아야/어야 되다",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để chỉ nghĩa vụ của chủ ngữ hoặc sự cần thiết phải làm một việc gì đó.",
+  "vidu": [
+    {"cau": "회사에 가야 돼요.", "nghia": "Phải đi đến công ty."},
+    {"cau": "책을 읽어야 돼요.", "nghia": "Phải đọc sách."},
+    {"cau": "가: 주말에 일해야 돼요? 나: 네, 주말에 일해야 돼요.", "nghia": "Hỏi: Cuối tuần phải làm việc à? Trả lời: Vâng, cuối tuần phải làm việc."}
+  ],
+  "luat": "Nguyên âm ㅏ, ㅗ → -아야 되다 (가다 → 가야 되다), nguyên âm ㅓ, ㅜ, ㅣ… → -어야 되다 (읽다 → 읽어야 되다), động từ -하다 → -해야 되다 (일하다 → 일해야 되다)."
+},
+{
+  "nguphap": "-(으)ㄹ게요",
+  "loai": "동사 + -(으)ㄹ게요",
+  "ynghia": "Được thêm vào động từ để thể hiện ý định hoặc lời hứa của người nói, chỉ dùng với chủ ngữ ngôi thứ nhất, không dùng trong câu hỏi. Thường dùng trả lời cho yêu cầu hoặc mệnh lệnh của người khác.",
+  "vidu": [
+    {"cau": "제가 빨래를 할게요.", "nghia": "Tôi sẽ giặt đồ."},
+    {"cau": "제가 음식을 만들게요.", "nghia": "Tôi sẽ nấu ăn."},
+    {"cau": "오후에 빨래를 걷을게요.", "nghia": "Buổi chiều tôi sẽ lấy đồ giặt xong."},
+    {"cau": "제가 휴게실을 청소할게요.", "nghia": "Tôi sẽ dọn phòng nghỉ."},
+    {"cau": "가: 먼저 갈게요? (X) 나: 네, 내일 일찍 올게요.", "nghia": "Hỏi: Tôi sẽ đi trước à? (Không đúng) Trả lời: Vâng, tôi sẽ đến sớm vào ngày mai."}
+  ],
+  "luat": "Động từ có 받침 → -을게요 (먹다 → 먹을게요), không có 받침 hoặc 받침 ㄹ → -ㄹ게요 (가다 → 갈게요). Chỉ dùng với chủ ngữ ngôi thứ nhất, không dùng trong câu nghi vấn."
+}]
