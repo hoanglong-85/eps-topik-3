@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-12-1.mp3",
+  "hinhanh": "hoi-thoai-12-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "마두",
+      "korean": "내일 공항에 가야 돼요. 회사에서 공항까지 어떻게 가요?",
+      "vietnamese": "Ngày mai tôi phải đến sân bay. Từ công ty đến sân bay đi như thế nào?"
+    },
+    {
+      "speaker": "진수",
+      "korean": "버스로 가요.",
+      "vietnamese": "Đi bằng xe buýt."
+    },
+    {
+      "speaker": "마두",
+      "korean": "몇 번 버스를 타야 돼요?",
+      "vietnamese": "Tôi phải đi xe buýt số mấy?"
+    },
+    {
+      "speaker": "진수",
+      "korean": "회사 앞 버스 정류장에서 100번 버스를 타세요.",
+      "vietnamese": "Hãy bắt xe buýt số 100 ở trạm trước công ty."
+    },
+    {
+      "speaker": "마두",
+      "korean": "공항까지 버스로 얼마나 걸려요?",
+      "vietnamese": "Đi xe buýt đến sân bay mất bao lâu?"
+    },
+    {
+      "speaker": "진수",
+      "korean": "1시간쯤 걸려요.",
+      "vietnamese": "Mất khoảng 1 tiếng."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "마두 씨는 공항까지 어떻게 갈 거예요?",
+      "vietnamese_question": "Madhu sẽ đến sân bay bằng cách nào?",
+      "korean_answer": "버스로 갈 거예요.",
+      "vietnamese_answer": "Đi bằng xe buýt."
+    },
+    {
+      "korean_question": "회사에서 공항까지 버스로 얼마나 걸려요?",
+      "vietnamese_question": "Từ công ty đến sân bay bằng xe buýt mất bao lâu?",
+      "korean_answer": "1시간쯤 걸려요.",
+      "vietnamese_answer": "Mất khoảng 1 tiếng."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-12-2.mp3",
+  "hinhanh": "hoi-thoai-12-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "아궁",
+      "korean": "늦어서 미안해요. 퇴근 시간이라서 차가 조금 막혔어요.",
+      "vietnamese": "Xin lỗi vì đến muộn. Vì giờ tan tầm nên đường hơi tắc."
+    },
+    {
+      "speaker": "자하라",
+      "korean": "괜찮아요. 여기까지 버스를 타고 왔어요?",
+      "vietnamese": "Không sao. Anh đến đây bằng xe buýt à?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "네. 자하라 씨는 어떻게 왔어요?",
+      "vietnamese": "Vâng. Còn Zahara đến bằng gì?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "저는 회사가 가까워서 걸어왔어요.",
+      "vietnamese": "Công ty tôi gần nên tôi đi bộ đến."
+    },
+    {
+      "speaker": "아궁",
+      "korean": "회사에서 얼마나 걸렸어요?",
+      "vietnamese": "Từ công ty đến đây mất bao lâu?"
+    },
+    {
+      "speaker": "자하라",
+      "korean": "20분쯤 걸렸어요.",
+      "vietnamese": "Mất khoảng 20 phút."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아궁 씨는 왜 약속 시간에 늦었어요?",
+      "vietnamese_question": "Tại sao Agung đến muộn giờ hẹn?",
+      "korean_answer": "퇴근 시간이라서 차가 조금 막혔어요.",
+      "vietnamese_answer": "Vì giờ tan tầm nên đường hơi tắc."
+    },
+    {
+      "korean_question": "자하라 씨는 시내까지 어떻게 왔어요?",
+      "vietnamese_question": "Zahara đã đến trung tâm thành phố bằng cách nào?",
+      "korean_answer": "걸어왔어요.",
+      "vietnamese_answer": "Đi bộ đến."
+    }
+  ]
+ }
+ ]
+

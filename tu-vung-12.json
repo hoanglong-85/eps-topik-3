@@ -1,0 +1,212 @@
+[
+    {
+        "korean": " 대중교통 ",
+        "vietnamese": " Giao thông công cộng\r",
+        "audio": "tu-vung-12-1.mp3"
+    },
+    {
+        "korean": " 마을버스 ",
+        "vietnamese": " Xe buýt tuyến ngắn\r",
+        "audio": "tu-vung-12-2.mp3"
+    },
+    {
+        "korean": " 시내버스 ",
+        "vietnamese": " Xe buýt nội thành\r",
+        "audio": "tu-vung-12-3.mp3"
+    },
+    {
+        "korean": " 시외버스 ",
+        "vietnamese": " Xe buýt liên tỉnh\r",
+        "audio": "tu-vung-12-4.mp3"
+    },
+    {
+        "korean": " 고속버스 ",
+        "vietnamese": " Xe buýt cao tốc\r",
+        "audio": "tu-vung-12-5.mp3"
+    },
+    {
+        "korean": " 택시 ",
+        "vietnamese": " Taxi\r",
+        "audio": "tu-vung-12-6.mp3"
+    },
+    {
+        "korean": " 기차 ",
+        "vietnamese": " Tàu hỏa\r",
+        "audio": "tu-vung-12-7.mp3"
+    },
+    {
+        "korean": " 고속 열차 ",
+        "vietnamese": " Tàu cao tốc (KTX)\r",
+        "audio": "tu-vung-12-8.mp3"
+    },
+    {
+        "korean": " 지하철 ",
+        "vietnamese": " Tàu điện ngầm\r",
+        "audio": "tu-vung-12-9.mp3"
+    },
+    {
+        "korean": " 비행기 ",
+        "vietnamese": " Máy bay\r",
+        "audio": "tu-vung-12-10.mp3"
+    },
+    {
+        "korean": " 배 ",
+        "vietnamese": " Thuyền\r",
+        "audio": "tu-vung-12-11.mp3"
+    },
+    {
+        "korean": " 자전거 ",
+        "vietnamese": " Xe đạp\r",
+        "audio": "tu-vung-12-12.mp3"
+    },
+    {
+        "korean": " 오토바이 ",
+        "vietnamese": " Xe máy\r",
+        "audio": "tu-vung-12-13.mp3"
+    },
+    {
+        "korean": " 타다 ",
+        "vietnamese": " Leo lên, cưỡi lên\r",
+        "audio": "tu-vung-12-14.mp3"
+    },
+    {
+        "korean": " 버스 정류장 ",
+        "vietnamese": " Điểm dừng xe buýt\r",
+        "audio": "tu-vung-12-15.mp3"
+    },
+    {
+        "korean": " 버스 터미널 ",
+        "vietnamese": " Bến xe buýt\r",
+        "audio": "tu-vung-12-16.mp3"
+    },
+    {
+        "korean": " 기차역 ",
+        "vietnamese": " Ga tàu hỏa\r",
+        "audio": "tu-vung-12-17.mp3"
+    },
+    {
+        "korean": " 지하철역 ",
+        "vietnamese": " Ga tàu điện\r",
+        "audio": "tu-vung-12-18.mp3"
+    },
+    {
+        "korean": " 공항 ",
+        "vietnamese": " Sân bay\r",
+        "audio": "tu-vung-12-19.mp3"
+    },
+    {
+        "korean": " 어떻게 ",
+        "vietnamese": " Như thế nào, bằng cách nào\r",
+        "audio": "tu-vung-12-20.mp3"
+    },
+    {
+        "korean": " 번 ",
+        "vietnamese": " Lần\r",
+        "audio": "tu-vung-12-21.mp3"
+    },
+    {
+        "korean": " 얼마나 ",
+        "vietnamese": " Bao nhiêu, bao lâu, bao xa\r",
+        "audio": "tu-vung-12-22.mp3"
+    },
+    {
+        "korean": " 걸리다 ",
+        "vietnamese": " Mất (thời gian)\r",
+        "audio": "tu-vung-12-23.mp3"
+    },
+    {
+        "korean": " 트럭 ",
+        "vietnamese": " Xe tải\r",
+        "audio": "tu-vung-12-24.mp3"
+    },
+    {
+        "korean": " 쯤 ",
+        "vietnamese": " Khoảng, chừng\r",
+        "audio": "tu-vung-12-25.mp3"
+    },
+    {
+        "korean": " 이동 ",
+        "vietnamese": " Di chuyển, chuyển động\r",
+        "audio": "tu-vung-12-26.mp3"
+    },
+    {
+        "korean": " 타고 가다 ",
+        "vietnamese": " Đi xe đi\r",
+        "audio": "tu-vung-12-27.mp3"
+    },
+    {
+        "korean": " 타고 오다 ",
+        "vietnamese": " Đi xe đến\r",
+        "audio": "tu-vung-12-28.mp3"
+    },
+    {
+        "korean": " 걸어가다 ",
+        "vietnamese": " Đi bộ đi\r",
+        "audio": "tu-vung-12-29.mp3"
+    },
+    {
+        "korean": " 걸어오다 ",
+        "vietnamese": " Đi bộ đến\r",
+        "audio": "tu-vung-12-30.mp3"
+    },
+    {
+        "korean": " 내리다 ",
+        "vietnamese": " Xuống\r",
+        "audio": "tu-vung-12-31.mp3"
+    },
+    {
+        "korean": " 갈아타다\/환승하다 ",
+        "vietnamese": " Đổi xe\r",
+        "audio": "tu-vung-12-32.mp3"
+    },
+    {
+        "korean": " 지나다 ",
+        "vietnamese": " Đi ngang qua\r",
+        "audio": "tu-vung-12-33.mp3"
+    },
+    {
+        "korean": " 걷다 ",
+        "vietnamese": " Đi bộ\r",
+        "audio": "tu-vung-12-34.mp3"
+    },
+    {
+        "korean": " 출근 시간 ",
+        "vietnamese": " Giờ vào làm\r",
+        "audio": "tu-vung-12-35.mp3"
+    },
+    {
+        "korean": " 퇴근 시간 ",
+        "vietnamese": " Giờ tan làm\r",
+        "audio": "tu-vung-12-36.mp3"
+    },
+    {
+        "korean": " 출퇴근 시간 ",
+        "vietnamese": " Giờ ra vào làm\r",
+        "audio": "tu-vung-12-37.mp3"
+    },
+    {
+        "korean": " 차가 막히다 ",
+        "vietnamese": " Kẹt xe\r",
+        "audio": "tu-vung-12-38.mp3"
+    },
+    {
+        "korean": " 가깝다 ",
+        "vietnamese": " Gần\r",
+        "audio": "tu-vung-12-39.mp3"
+    },
+    {
+        "korean": " 멀다 ",
+        "vietnamese": " Xa\r",
+        "audio": "tu-vung-12-40.mp3"
+    },
+    {
+        "korean": " 늦다 ",
+        "vietnamese": " Muộn\r",
+        "audio": "tu-vung-12-41.mp3"
+    },
+    {
+        "korean": " 미안하다 ",
+        "vietnamese": " Xin lỗi",
+        "audio": "tu-vung-12-42.mp3"
+    }
+]

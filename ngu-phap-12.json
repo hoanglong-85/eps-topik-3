@@ -1,0 +1,22 @@
+[{
+  "nguphap": "(으)로 (수단)",
+  "loai": "명사 + (으)로",
+  "ynghia": "Kết hợp với danh từ để chỉ phương tiện, cách thức thực hiện hành động, hoặc dụng cụ, nguyên liệu được sử dụng.",
+  "vidu": [
+    {"cau": "여기까지 마을버스로 왔어요.", "nghia": "Tôi đến đây bằng xe buýt địa phương."},
+    {"cau": "회사에 지하철로 가요.", "nghia": "Đi đến công ty bằng tàu điện ngầm."},
+    {"cau": "가: 한국에서 중국까지 어떻게 갔어요? 나: 배로 갔어요.", "nghia": "Hỏi: Bạn đã đi từ Hàn Quốc đến Trung Quốc bằng gì? Trả lời: Tôi đi bằng tàu thủy."}
+  ],
+  "luat": "Nếu danh từ có 받침 → 으로 (트럭 → 트럭으로), nếu không có 받침 hoặc kết thúc bằng 받침 ㄹ → 로 (기차 → 기차로, 지하철 → 지하철로)."
+},
+{
+  "nguphap": "-아서/어서 (이유)",
+  "loai": "동사/형용사 + -아서/어서",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để biểu thị lý do, nguyên nhân cho nội dung phía sau.",
+  "vidu": [
+    {"cau": "비가 와서 우산을 샀어요.", "nghia": "Vì trời mưa nên tôi đã mua ô."},
+    {"cau": "할머니께서 편찮으셔서 병원에 모시고 갔어요.", "nghia": "Vì bà bị ốm nên tôi đã đưa bà đến bệnh viện."},
+    {"cau": "과일이 싱싱해서 몇 개 샀어요.", "nghia": "Vì trái cây tươi nên tôi đã mua vài quả."}
+  ],
+  "luat": "Nguyên âm ㅏ, ㅗ → -아서 (싸다 → 싸서), nguyên âm ㅓ, ㅜ, ㅣ… → -어서 (읽다 → 읽어서), động từ -하다 → -해서 (청소하다 → 청소해서)."
+}]
